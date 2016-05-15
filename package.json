@@ -1,0 +1,28 @@
+{
+  "name": "homebridge-mqtthumidity",
+  "version": "1.0.0",
+  "description": "MQTT humidity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertouttier/homebridge-mqtthumidity.git"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "keywords": [
+    "mqtt",
+    "humidity",
+    "homebridge-plugin"
+  ],
+  "author": "Bert Outtier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertouttier/homebridge-mqtthumidity/issues"
+  },
+  "homepage": "https://github.com/bertouttier/homebridge-mqtthumidity#readme"
+}
